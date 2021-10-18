@@ -1,0 +1,54 @@
+body {
+    background-color: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-bottom: 6px solid;
+    border-color: lightskyblue;
+}
+h2 {
+    margin-left: 75px;
+}
+h3 {
+    text-align: center;
+}
+p {
+    font-size: 18px;
+}
+.my_info {
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: lightgoldenrodyellow;
+    border-style: solid;
+    border-color: lightgoldenrodyellow;
+    border-width: 30px;
+}
+.my_projects {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 80px;
+    margin-right: 1200px;
+    background-color: lightblue;
+    border-style: ridge;
+    border-color: lightskyblue;
+    border-radius: 10px;
+}
+.contact_info {
+    margin-left: 80px;
+    margin-right: 1200px;
+    background-color: lightgreen;
+    border-style: ridge;
+    border-color: lightseagreen;
+    border-radius: 10px;
+}
+.profile_image {
+    margin-left: 80px;
+    margin-right: 1600px;
+    border-style: ridge;
+    border-radius: 10px;
+    border-color: lightgreen;
+}
